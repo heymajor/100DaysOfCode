@@ -62,8 +62,11 @@ There could be 1000 other steps for each goal, but I'm also trying to use this a
 
 **Link(s) to work**: []()
 
-Dec 15, Day 4
+---
 
+### Day 4: Monday, December 15, 2019
+
+**Today's Progress**:
 Stuck in a rut and bogged down with so much info about React and GraphQL after walking through the
 @gatsbyjs
 tutorial - and then again when walking through the React tic-tac-toe tutorial.
@@ -83,10 +86,15 @@ helped to restore my faith in myself and others :)
 
 Helping people helps. People being nice to you helps. Being nice to people helps.
 
+**Thoughts**:
+
+**Link(s) to work**: []()
+
 ---
 
-Dec 16, Day 5
-Stumbled onto @rwieruch's 'The Road to Learn React' -might be what I've been looking for.
+### Day 5: Monday, December 16, 2019
+
+**Today's Progress**: Stumbled onto @rwieruch's 'The Road to Learn React' -might be what I've been looking for.
 
 I'll be working through this for the time being :)
 
@@ -96,44 +104,80 @@ Book is generously free #ReactJS
 
 https://twitter.com/MajorByDesign/status/1207042173797048322
 
+**Thoughts**:
+
+**Link(s) to work**: []()
+
 ---
 
-Dec 17, Day 6 of #100DaysOfCode
+### Day 6: Monday, December 17, 2019
 
-I feel like I'm asking too many basic JS questions while I'm looking at React, so I'm turning to vanilla Javascript. Looking at #LearnJavascriptTheHardWay, an Udemy course, and #Javascript30
+**Today's Progress**: I feel like I'm asking too many basic JS questions while I'm looking at React, so I'm turning to vanilla Javascript. Looking at #LearnJavascriptTheHardWay, an Udemy course, and #Javascript30
 
---
+**Thoughts**:
 
-Dec 18, Day 7 of #100DaysOfCode #LearnJavascriptTheHardWay
+**Link(s) to work**: []()
 
-Next few days about vanilla JS are going to be.. well.. vanilla. Fundamentals aren't fun.
+---
+
+### Day 7: Monday, December 18, 2019
+
+**Today's Progress**: Next few days about vanilla JS are going to be.. well.. vanilla. Fundamentals aren't fun.
 
 Today, I reviewed how to display variables in a string and explored examples using arguments declared from the command line.
 
---
+**Thoughts**:
 
-Dec 19, Day 8 of #100DaysOfCode #LearnJavascriptTheHardWay
-
-How to work with requirements, use content from files as args, and explore nodejs API for what dreams are made of.
+**Link(s) to work**: []()
 
 ---
 
-Dec 20, Day 9 of #100DaysOfCode #LearnJavascriptTheHardWay
+### Day 8: Monday, December 19, 2019
 
-I went a bit deeper today and explored different ways to use callback functions and used conditional statements in a function, sequences, different ways to write out functions, and labels.
+**Today's Progress**: How to work with requirements, use content from files as args, and explore nodejs API for what dreams are made of.
+
+**Thoughts**:
+
+**Link(s) to work**: []()
+
+---
+
+### Day 9: Monday, December 20, 2019
+
+**Today's Progress**: I went a bit deeper today and explored different ways to use callback functions and used conditional statements in a function, sequences, different ways to write out functions, and labels.
 
 Labels remind me of Exapunks
 
+**Thoughts**:
+
+**Link(s) to work**: []()
+
 ---
 
-Dec 21, Day 10 of #100DaysOfCode #LearnJavascriptTheHardWay
+### Day 10: Monday, December 21, 2019
 
-I explored different ways to define and work with arrays and different examples of how to call arrays (and nested components). Had Prince stuck in my head for the rest of the afternoon.
+**Today's Progress**: I explored different ways to define and work with arrays and different examples of how to call arrays (and nested components). Had Prince stuck in my head for the rest of the afternoon.
 
---
+**Thoughts**:
 
-Dec 22, Day 11 of #100DaysOfCode #LearnJavascriptTheHardWay
+**Link(s) to work**: []()
 
-Using conditional statements with a series of functions, created a basic, 3-room Zork-like game. Had some issues nesting functions, but I might be making it more complex than necessary. Also explored debugging in VScode.
+---
 
---
+### Day 11: Monday, December 22, 2019
+
+**Today's Progress**: Using conditional statements with a series of functions, created a basic, 3-room Zork-like game. Had some issues nesting functions, but I might be making it more complex than necessary. Also explored debugging in VScode.
+
+**Thoughts**:
+
+**Link(s) to work**: []()
+
+---
+
+### Day 12: Monday, December 23, 2019
+
+**Today's Progress**: Walked through the drum kit and CSS + JS clock (D1 and D2) and am looking at Day 3. My goal is to walk through the day's scope without video instruction. Saying I 'did' the projects feels like being proud of a paint-by-numbers atm
+
+**Thoughts**:
+
+**Link(s) to work**: []()
