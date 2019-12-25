@@ -58,10 +58,6 @@ There could be 1000 other steps for each goal, but I'm also trying to use this a
 
 **Today's Progress**: JS fundamentals to learn: DOM / JSON / Fetch API/ Modern JS (ES6)
 
-**Thoughts**:
-
-**Link(s) to work**: []()
-
 ---
 
 ### Day 4: Monday, December 15, 2019
@@ -86,10 +82,6 @@ helped to restore my faith in myself and others :)
 
 Helping people helps. People being nice to you helps. Being nice to people helps.
 
-**Thoughts**:
-
-**Link(s) to work**: []()
-
 ---
 
 ### Day 5: Monday, December 16, 2019
@@ -104,19 +96,11 @@ Book is generously free #ReactJS
 
 https://twitter.com/MajorByDesign/status/1207042173797048322
 
-**Thoughts**:
-
-**Link(s) to work**: []()
-
 ---
 
 ### Day 6: Monday, December 17, 2019
 
 **Today's Progress**: I feel like I'm asking too many basic JS questions while I'm looking at React, so I'm turning to vanilla Javascript. Looking at #LearnJavascriptTheHardWay, an Udemy course, and #Javascript30
-
-**Thoughts**:
-
-**Link(s) to work**: []()
 
 ---
 
@@ -126,19 +110,11 @@ https://twitter.com/MajorByDesign/status/1207042173797048322
 
 Today, I reviewed how to display variables in a string and explored examples using arguments declared from the command line.
 
-**Thoughts**:
-
-**Link(s) to work**: []()
-
 ---
 
 ### Day 8: Monday, December 19, 2019
 
 **Today's Progress**: How to work with requirements, use content from files as args, and explore nodejs API for what dreams are made of.
-
-**Thoughts**:
-
-**Link(s) to work**: []()
 
 ---
 
@@ -148,19 +124,11 @@ Today, I reviewed how to display variables in a string and explored examples usi
 
 Labels remind me of Exapunks
 
-**Thoughts**:
-
-**Link(s) to work**: []()
-
 ---
 
 ### Day 10: Monday, December 21, 2019
 
 **Today's Progress**: I explored different ways to define and work with arrays and different examples of how to call arrays (and nested components). Had Prince stuck in my head for the rest of the afternoon.
-
-**Thoughts**:
-
-**Link(s) to work**: []()
 
 ---
 
@@ -168,16 +136,20 @@ Labels remind me of Exapunks
 
 **Today's Progress**: Using conditional statements with a series of functions, created a basic, 3-room Zork-like game. Had some issues nesting functions, but I might be making it more complex than necessary. Also explored debugging in VScode.
 
-**Thoughts**:
-
-**Link(s) to work**: []()
-
 ---
 
 ### Day 12: Monday, December 23, 2019
 
 **Today's Progress**: Walked through the drum kit and CSS + JS clock (D1 and D2) and am looking at Day 3. My goal is to walk through the day's scope without video instruction. Saying I 'did' the projects feels like being proud of a paint-by-numbers atm
 
-**Thoughts**:
+---
 
-**Link(s) to work**: []()
+### Day 13: Tuesday, December 24, 2019
+
+**Today's Progress**:
+
+1. Discovered how to rebind a key for a VScode extension [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes&ssr=false#overview) and [responded to a clarification request](https://github.com/BriteSnow/vscode-toggle-quotes/issues/20#issuecomment-568808356).
+2. Started setting up my own global snippets. Most snippet extensions define shorter aliases with snippets that I don't use, so it makes more sense to keep them on my radar but update my own snippets file as I continue.
+3. Added the [Developer Evangelist Handbook](http://developer-evangelism.com/handbook.php) to my reading list.
+4. Stumbled onto an [interesting gist](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86) showing vanilla JavaScript references when looking for a DOM cheatsheet. Will I ever use it? Probably. Will I ever _really_ use it? Probably not.
+5. Walked through Traversy Media's [Javascript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) - really great video. I'll check out the [Javascript DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s) soon (Maybe tomorrow).
